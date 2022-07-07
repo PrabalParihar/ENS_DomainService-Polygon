@@ -20,7 +20,7 @@ module.exports = {
 //   networks: {
 //     mumbai: {
 //       url: "https://polygon-mumbai.g.alchemy.com/v2/Oo5wIC8yYB7ncVgKuucWV3-7gi5tJHIJ",
-//       accounts: ["31d73627c4659d8f222c75772ac052925326d2601ffd55a96fc8c85f86420d9a"],
+//       accounts:
      
 //     }
 //   }
